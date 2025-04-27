@@ -1,0 +1,15 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>0c3f7ba7ab96a7eec9ebc6c1d06a018f.jpg</file>
+    <file>Downpic.cc-247994875.jpg</file>
+    <file>C3J47ea36cMBc4XPbp9aaA_96x96.png</file>
+    <file>Standard_Ticket_Resized.jpg</file>
+    <file>Standard_Ticket_Resized.jpg</file>
+    <file>High_Class_Ticket_Resized.jpg</file>
+    <file>nGfV05dipbAc7zzojivKew_96x96.png</file>
+  </qresource>
+  <qresource prefix="mohamed"/>
+  <qresource prefix="newPrefix">
+    <file>VIP_ticket_resized.jpg</file>
+  </qresource>
+</RCC>

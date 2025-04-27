@@ -1,0 +1,21 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>0c3f7ba7ab96a7eec9ebc6c1d06a018f.jpg</file>
+    <file>kkkkk0..jpg</file>
+    <file>hamza.jpg</file>
+    <file>1_.jpg</file>
+    <file>71dde3fd-738e-4c98-98c8-34b3208c4d1f.png</file>
+    <file>WhatsApp Image 2025-04-15 at 12.58.19 PM.jpeg</file>
+    <file>main_welcome.jpeg</file>
+  </qresource>
+  <qresource>
+    <file>71dde3fd-738e-4c98-98c8-34b3208c4d1f.png</file>
+    <file>71dde3fd-738e-4c98-98c8-34b3208c4d1f.png</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+  <qresource prefix="mian">
+    <file>a0673449-1920-40c0-add2-ac1c82384cee.jpg</file>
+    <file>3f6b454f-7600-4cf4-af43-3391c285f25d.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix"/>
+</RCC>
